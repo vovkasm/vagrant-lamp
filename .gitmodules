@@ -7,3 +7,9 @@
 [submodule "modules/concat"]
 	path = modules/concat
 	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "modules/staging"]
+	path = modules/staging
+	url = https://github.com/nanliu/puppet-staging.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
