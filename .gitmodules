@@ -13,3 +13,6 @@
 [submodule "modules/mysql"]
 	path = modules/mysql
 	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "modules/phpmyadmin"]
+	path = modules/phpmyadmin
+	url = https://github.com/vovkasm/puppet-phpmyadmin.git
